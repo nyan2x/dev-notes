@@ -2,6 +2,7 @@
 
 ### Lexical or Preprocessor Issue
 **Description**: When we run or build the application in Xcode
+
 |Name|Version|
 | ------------ | ------------ |
 | react-native | 0.55.4 |
@@ -22,6 +23,7 @@ react-native bundle --entry-file ./index.js --platform ios --bundle-output ios/m
 
 ### Cannot read property 'bindings' of null
 **Description**: When we run `react-native bundle`
+
 |Name|Version|
 | ------------ | ------------ |
 | react-native | 0.56.0 |
